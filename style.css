@@ -702,4 +702,49 @@ footer .fas,
     .action-inner {
         display: block;
     }
+    .action-inner div {
+        width: 100%;
+    }
+    .action-lower {
+        display: block;
+        padding: 0;
+        margin: 0;
+    }
+    .action-lowerinner {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+    .action-lowerinner .img {
+        display: none;
+    }
+    .action-lowerinner .form {
+        width: 100%;
+    }
+    .action-lowerlast {
+        display: block;
+        padding: 30px 10px;
+    }
+    .action-lowerlast div {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .footer-top {
+        display: block;
+        margin: 0;
+        padding: 30px 10px;
+    }
+    .footer-top div {
+        width: 100%;
+        padding: 10px;
+    }
+    .copyright {
+        flex-direction: column;
+        justify-content: center;
+        padding: 20px 10px;
+    }
+    .copyright p {
+        text-align: center;
+        margin: 10px 0;
+    }
 }
