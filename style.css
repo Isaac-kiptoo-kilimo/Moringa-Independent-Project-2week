@@ -9,6 +9,10 @@
     --bg-color: #252B42;
 }
 
+body {
+    font-family: 'Montserrat';
+}
+
 header {
     width: 100%;
     height: 500px;
@@ -314,7 +318,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 230px;
+    width: 250px;
     border-radius: 6px;
     padding: 26px;
     border: 1px solid var(--primary-color);
@@ -407,7 +411,7 @@ header {
 
 .action-lowerinner {
     display: flex;
-    margin: -200px auto 150px auto;
+    margin: -200px auto 50px auto;
 }
 
 .action-lowerinner .img {
@@ -448,7 +452,8 @@ header {
     background-color: #aaaaaa10;
 }
 
-.inputholder button {
+.inputholder button,
+.action-lowerlast button {
     background-color: var(--primary-color);
     color: white;
     padding: 16px 0;
@@ -456,4 +461,89 @@ header {
     border-radius: 6px;
     border: none;
     outline: none;
+}
+
+.action-lowerlast {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0;
+    padding: 0 30px;
+}
+
+.action-lowerlast h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.action-lowerlast p {
+    font-size: 16px;
+}
+
+.action-lowerlast button {
+    width: auto;
+    padding: 10px 25px;
+}
+
+footer {
+    background-color: white;
+    margin-top: 10px;
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+}
+
+.footer-top div {
+    width: calc(100% / 4);
+}
+
+.footer-top div h4 {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.footer-top ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.footer-top li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #aaaaaa10;
+    padding: 10px 100px;
+}
+
+footer .fas,
+.fab {
+    font-size: 16px;
+    color: var(--primary-color);
+    margin-right: 10px;
+}
+
+.pricing-body .fas.checked {
+    color: rgb(114, 199, 114);
+    margin-right: 10px;
+}
+
+.pricing-body p {
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+}
+
+.pricing-body .fas {
+    color: #aaa;
+    margin-right: 10px;
 }
