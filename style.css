@@ -104,4 +104,73 @@ header{
     background: transparent;
     border: 1px solid white;
     
+
 }
+.icons1, .icons2{
+    display: flex;
+    width: 90%;
+    margin: -120px auto 20px auto;
+    justify-content: space-around;
+
+}
+.icons1 div, .icons2 div{
+    width: 350px;
+    padding: 20px;
+    /* margin: 0 30px; */
+    background-color: white;
+    box-shadow: 0 15px 35px #aaaaaa40;
+
+}
+.icons1 .selected{
+    background-color: var(--primary-color);
+    color: white;
+}
+.icons1 div h4, .icons2 div h4{
+    font-weight: 700;
+    font-size: 22px;
+    margin: 15px 0;
+
+}
+.icons1 div p, .icons2 div p{
+    font-weight: 400;
+    font-size: 16px;
+    opacity: 0.9;
+    margin: 10px 0;
+}
+.icons_{
+    background-color: #aaaaaa10;
+    padding: 30px 0;
+    position: relative;
+}
+.icons2{
+    margin: 10px auto;
+    padding: 60px 0;
+    
+
+}
+.icons2 div{
+    box-shadow: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.icons2 div h4, .icons2 div p{
+    text-align: center;
+}
+.section2{
+    background: #aaaaaa10;
+    margin: 20px 0;
+    padding: 50px 0;
+}
+.section2-header{
+    text-align: center;
+    margin:30px 0;
+}
+.section2-header p{
+    margin-top: 10px;
+    opacity: 0.9;
+}
+
+
