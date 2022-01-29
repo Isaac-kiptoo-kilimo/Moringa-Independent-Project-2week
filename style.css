@@ -227,8 +227,9 @@ header {
     padding: 0 10px;
 }
 
-.reviews div .rating {
+.reviews .rating {
     display: flex;
+    flex-direction: row;
     margin: 10px 0;
     padding: 0 10px;
 }
@@ -318,9 +319,9 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 250px;
+    width: 270px;
     border-radius: 6px;
-    padding: 26px;
+    padding: 20px;
     border: 1px solid var(--primary-color);
 }
 
@@ -328,6 +329,7 @@ header {
     background: var(--bg-color);
     color: white;
     padding: 40px 20px;
+    width: 270px;
 }
 
 .pricing-body div h3 {
@@ -540,10 +542,24 @@ footer .fas,
 .pricing-body p {
     display: flex;
     align-items: center;
-    font-weight: 400;
+    font-weight: 600;
+    margin: 6px 0;
 }
 
 .pricing-body .fas {
-    color: #aaa;
+    color: rgb(73, 70, 70);
     margin-right: 10px;
+}
+
+.custom-icon {
+    font-size: 50px;
+    color: var(--primary-color);
+}
+
+.full {
+    color: orange;
+}
+
+.reviews .rating .fas {
+    display: inline-block;
 }
