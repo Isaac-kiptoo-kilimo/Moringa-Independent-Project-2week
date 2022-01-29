@@ -23,6 +23,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .nav {
@@ -39,6 +40,7 @@ header {
     left: 0;
     background-color: transparent;
     justify-content: space-between;
+    z-index: 100;
 }
 
 .head-content {
