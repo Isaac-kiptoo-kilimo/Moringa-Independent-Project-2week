@@ -1,19 +1,24 @@
 # Insuarance Website
 
+<p>This is a clone to an insuarance website, 28/01/2022</p>
+
 ##### By Isaac kiptoo
 ### It is a description of Insuarance Website.
+
 
 ## Table of Content
 
 + [Description](#description)
-+ [Installation Requirement](#Installation)
++ [Installation Requirement](#Installation/set-up)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is  a website that shows Insuarance Website.It shows a design of Insuarance Website and this is a school project.</p>
+<p>The purpose of the insuarance website is to display services offered by the insuarance company. The site contains
+
+six sections,the header with navigation bar,the services offered,the location of the branches,the place for booking the appointment,the contact us page and the footer.</p>
 
 ## Set-up/Installation
 
