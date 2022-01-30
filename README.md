@@ -14,6 +14,7 @@
 + [Reference](#reference)
 + [License](#license)
 + [Authors Info](#author-Info)
++ [Project Layout](#Project Layout)
 
 ## Description
 <p>The purpose of the insuarance website is to display services offered by the insuarance company. The site contains
@@ -25,9 +26,13 @@ six sections,the header with navigation bar,the services offered,the location of
 ### Requirements
 
 1.Clone the project using git -clone . If you are not able to clone it, you can download the files as a zip folder
+
 2.Ensure that you have the complete file
+
 3.Navigate to the index.html file which is in the root file of the folder. The application is static and only uses HTML and CSS
+
 4.Copy the path of the index.html file to your browser and you will be able to access the application.
+
 5.You need computer or phone and be able to access internet.
 
 ### Installation Process
@@ -42,7 +47,7 @@ six sections,the header with navigation bar,the services offered,the location of
 
 MIT License
 
-Copyright (c) [2022] [Isaac kiptoo]
+Copyright © license 2022 Isaac kiptoo kilimo, student Moringa school
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -64,9 +69,11 @@ SOFTWARE.
 
 [Go Back to the top](#Insuarance Website)
 
-## Authors Info
+## Authors Info/contacts
 
 Github Profile - [Isaac kiptoo kilimo](https://github.com/Isaac-kiptoo-kilimo)
+
+Email Address-[Isaac kiptoo kilimo] (isaac.kiptoo.kilimo@student.moringaschool.com)
 
 
 [Go Back to the top](#Insuarance Website)
