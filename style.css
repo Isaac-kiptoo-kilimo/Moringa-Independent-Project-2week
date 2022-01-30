@@ -24,6 +24,7 @@ header {
     justify-content: center;
     align-items: center;
     position: relative;
+    /* background: url("./images/hero-cover3.png"); */
 }
 
 .nav {
