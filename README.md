@@ -12,7 +12,7 @@
 + [Installation Requirement](#Installation/set-up)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
-+ [Licence](#licence)
++ [License](#license)
 + [Authors Info](#author-Info)
 
 ## Description
@@ -24,9 +24,11 @@ six sections,the header with navigation bar,the services offered,the location of
 
 ### Requirements
 
-* Either a computer or a phone
-
-* An access to the Internet
+1.Clone the project using git -clone . If you are not able to clone it, you can download the files as a zip folder
+2.Ensure that you have the complete file
+3.Navigate to the index.html file which is in the root file of the folder. The application is static and only uses HTML and CSS
+4.Copy the path of the index.html file to your browser and you will be able to access the application.
+5.You need computer or phone and be able to access internet.
 
 ### Installation Process
 
@@ -35,11 +37,6 @@ six sections,the header with navigation bar,the services offered,the location of
 * HTML - which was used to build the structure of the pages.
 
 * CSS - which was used to style the pages.
-
-## Reference
-* Materialize CSS
-
-[Go Back to the top](#Insuarance Website)
 
 ## License
 
