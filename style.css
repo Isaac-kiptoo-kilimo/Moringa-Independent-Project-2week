@@ -623,9 +623,6 @@ footer .fas,
     .nav .frst {
         justify-content: start;
     }
-    /* .nav .last {
-        display: none;
-    } */
     .icons1,
     .icons2 {
         flex-direction: column;
