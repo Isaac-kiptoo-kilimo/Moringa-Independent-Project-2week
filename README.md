@@ -80,4 +80,4 @@ Email Address-[Isaac kiptoo kilimo] (isaac.kiptoo.kilimo@student.moringaschool.c
 
 ## Project Layout
 
-! [Desktop](./images/Desktop.png)
+![Desktop](/images/Desktop.png)
