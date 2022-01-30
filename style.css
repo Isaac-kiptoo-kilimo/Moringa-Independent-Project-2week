@@ -44,10 +44,6 @@ header {
     z-index: 100;
 }
 
-.head-content {
-    /* margin-top: 100px; */
-}
-
 .first {
     display: flex;
     justify-content: end;

@@ -43,7 +43,7 @@ six sections,the header with navigation bar,the services offered,the location of
 
 * CSS - which was used to style the pages.
 
-## License
+## License and copyright
 
 MIT License
 
@@ -77,3 +77,7 @@ Email Address-[Isaac kiptoo kilimo] (isaac.kiptoo.kilimo@student.moringaschool.c
 
 
 [Go Back to the top](#Insuarance Website)
+
+## Project Layout
+
+! [Desktop](./images/Desktop.png)
