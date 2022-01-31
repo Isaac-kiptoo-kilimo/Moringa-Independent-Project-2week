@@ -14,7 +14,7 @@
 + [Reference](#reference)
 + [License](#license)
 + [Authors Info](#author-Info)
-+ [Layout](#project layout)
++ [Layout](#project-layout)
 
 ## Description
 <p>The purpose of the insuarance website is to display services offered by the insuarance company. The site contains
