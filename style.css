@@ -569,14 +569,16 @@ footer .fas,
         display: none;
     } */
     .nav {
+        margin-right: 15px;
+        margin-left: 6px;
         display: block;
-        padding: 20px;
+        padding: 10px;
         position: relative;
         flex-direction: column;
         height: auto;
-        width: 100%;
+        width: 97%;
         color: black;
-        background-color: white;
+        background-color: red;
         z-index: 10;
     }
     .center ul {
@@ -601,8 +603,10 @@ footer .fas,
         color: black;
     }
     header {
-        height: 700px;
-        /* padding-top: 80px; */
+        height: 590px;
+        margin: 10px;
+        width: 95%;
+        /* padding: 20px; */
     }
     /* .center {
         position: absolute;
@@ -623,6 +627,7 @@ footer .fas,
     }
     .icons1,
     .icons2 {
+        margin: 0 0 20px 0;
         flex-direction: column;
         width: 100%;
         padding: 0 10px;
@@ -646,7 +651,7 @@ footer .fas,
     }
     .section2 {
         padding: 0;
-        margin: 0;
+        margin: 15px;
     }
     .section2-header {
         padding: 20px 10px;
@@ -659,11 +664,11 @@ footer .fas,
     }
     .partners img {
         width: 100%;
-        margin: 20px 0;
+        margin: 20px;
         padding: 10px;
     }
     .subscribe {
-        margin: 10px 0;
+        margin: 10px;
         padding: 10px;
         display: block;
     }
@@ -676,7 +681,7 @@ footer .fas,
     }
     .pricing {
         padding: 30px 10px;
-        margin: 0;
+        margin: 10px;
     }
     .pricing-body {
         flex-direction: column;
@@ -692,7 +697,7 @@ footer .fas,
     }
     .action {
         padding: 0;
-        margin: 0;
+        margin: 20px;
     }
     .action-inner {
         display: block;
@@ -717,6 +722,7 @@ footer .fas,
         width: 100%;
     }
     .action-lowerlast {
+        margin: 10px;
         display: block;
         padding: 30px 10px;
     }
