@@ -665,7 +665,8 @@ footer .fas,
         flex-wrap: wrap;
     }
     .partners img {
-        width: 100%;
+        width: 60%;
+        height: 70%;
         margin: 20px;
         padding: 10px;
     }
